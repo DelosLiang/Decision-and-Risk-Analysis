@@ -145,7 +145,7 @@ thinking. Otherwise, we also had efficient communication with each other through
 
 #### Week 7
 
-In this week, we presented our work perfectly. We had an explicit division of work and demonstrate our slides clearly. The summary of our work is as follows:
+In this week, we presented our work perfectly. We had an explicit division of work and demonstrated our slides clearly. The summary of our work is as follows:
 
 
 This report presents a numerical algorithm for a full probabilistic analysis of a container, using Monte Carlo (MC) method. The proposed MC numerical procedure was used to compute the uncertainties in properties of the steel (e.g., the maximum bending moment the structure could sustain), and to derive the statistics of the dynamic response in the presence of uncertainty in the wind loading. The displacement method was utilized to obtain the internal forces of the container. This report also presents the computation of the structural fragility curves of the container under extreme winds.
