@@ -1,0 +1,20 @@
+clear;
+clc;
+x1 = 1;
+x2 = 2;
+x3 = 3;
+x4 = 4;
+x5 = 5;
+y1 = 1;
+y2 = 2;
+y3 = 3;
+y4 = 4;
+y5 = 5;
+figure;
+K = plot(x1,y1,'ko');
+hold on
+L = plot(x2,y2,'ks');
+M = plot(x3,y3,'k^');
+N = plot(x4,y4,'kd');
+O = plot(x5,y5,'k*');
+legend('$N_{MC}=1,000$','$N_{MC}=5,000$','$N_{MC}=10,000$','$N_{MC}=50,000$','$N_{MC}=100,000$','Location','northeast','Interpreter','LaTex');
