@@ -154,7 +154,7 @@ The results of this report provide some cases about the expected losses associat
 
 #### Files
 
-All the documents and codes are placed in **FinalReport**, all the questions and solutions are placed in **Homework**, and related information is shown in **ProjectInfo**.  
+All the documents and codes are placed in **FinalReport**, all the questions and solutions are placed in **Homework**, and related information is shown in **ProjectInfo**, all the papers which gift us inspirations are placed in **inspirations**.  
 
 ### Instructor Introdunction
 
